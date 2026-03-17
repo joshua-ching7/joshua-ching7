@@ -7,7 +7,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=36&duration=3000&pause=1000&color=1D1D1F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Josh+%F0%9F%91%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=36&duration=3000&pause=1000&color=1D1D1F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Joshua+Ching+%F0%9F%91%8B" alt="Typing SVG" />
   </h1>
 
   <p align="center">
@@ -66,15 +66,6 @@
 
 <br/>
 
-## `Stats` &nbsp; · &nbsp; GitHub Activity
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=joshua-ching7&show_icons=true&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&text_color=424245&icon_color=0071e3&ring_color=0071e3" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-ching7&layout=compact&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&text_color=424245" />
-</div>
-
-<br/>
 
 ## `Pinned` &nbsp; · &nbsp; Featured Projects
 
