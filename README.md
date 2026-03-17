@@ -38,8 +38,6 @@
 ## `About Me`
 
 > I'm a **Data Science and Business Administration** student at **UC Berkeley** (Haas) interested in product management and technical program management. I've shipped products across fintech, open-source, and edtech — driven by the belief that the best products sit at the intersection of **rigorous data thinking** and **sharp user intuition**.
->
-> 🏆 Voya Financial National Case Competition — **1st / 15,000 competitors**
 
 <br/>
 
