@@ -11,7 +11,7 @@
   </h1>
 
   <p align="center">
-    <em>Building AI-powered products at the intersection of data &amp; strategy.</em>
+    <em>Building AI-powered products.</em>
   </p>
 
   <br/>
@@ -37,7 +37,7 @@
 
 ## `About Me`
 
-> I'm a **Data Science and Business Administration** student at **UC Berkeley** (Haas) interested in product management and technical program management. I've shipped products across fintech, open-source, and edtech — driven by the belief that the best products sit at the intersection of **rigorous data thinking** and **sharp user intuition**.
+> I'm a **Data Science and Business Administration** student at **UC Berkeley** interested in product management and technical program management. I'm passionate about building products that create meaningful impact and I've enjoyed shipping in areas like fintech and EdTech.
 
 <br/>
 
