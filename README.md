@@ -79,7 +79,7 @@
 
 <div align="center">
   <sub>
-    Data Science &amp; Business Administration · UC Berkeley Haas &nbsp;·&nbsp;
+    Data Science &amp; Business Administration · UC Berkeley &nbsp;·&nbsp;
     <a href="mailto:joshua.ching@berkeley.edu">joshua.ching@berkeley.edu</a>
   </sub>
 </div>
