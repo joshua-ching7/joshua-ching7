@@ -11,7 +11,7 @@
   </h1>
 
   <p align="center">
-    <em>Building AI-powered products.</em>
+    <em>I'm building impactful, AI-powered products.</em>
   </p>
 
   <br/>
